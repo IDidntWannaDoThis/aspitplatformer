@@ -226,13 +226,8 @@ PositionConstraint:
   m_Active: 1
   m_IsLocked: 1
   m_Sources:
-  - sourceTransform: {fileID: 1098594860}
+  - sourceTransform: {fileID: 8838649730449973316, guid: 5afe09c005a69fb4ea9aef8608516bd3, type: 3}
     weight: 1
---- !u!4 &1098594860 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 8838649730449973316, guid: 5afe09c005a69fb4ea9aef8608516bd3, type: 3}
-  m_PrefabInstance: {fileID: 8838649729365154408}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1139084745
 GameObject:
   m_ObjectHideFlags: 0
