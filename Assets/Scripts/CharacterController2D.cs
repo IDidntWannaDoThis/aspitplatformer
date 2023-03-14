@@ -40,22 +40,23 @@ public class CharacterController2D : MonoBehaviour
     void Update()
     {
         // Movement controls
-        if ((Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D)) && (isGrounded || Mathf.Abs(r2d.velocity.x) > 0.01f))
+        if (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D))
         {
             moveDirection = Input.GetKey(KeyCode.A) ? -1 : 1;
-            if (isGrounded && Mathf.Abs(r2d.velocity.x) < 0.01f)
+            if (isGrounded && r2d.velocity.y < 0.01f)
             {
                 _animator.SetInteger("AnimationState", 1);
             }
         }
         else
         {
-            if (isGrounded || r2d.velocity.magnitude < 0.01f)
+            if (isGrounded || r2d.velocity.y < 0.01f)
             {
                 moveDirection = 0;
             }
 
-            if (isGrounded)
+            // Idle Animation
+            if (isGrounded && r2d.velocity.y < 0.01f)
             {
                 _animator.SetInteger("AnimationState", 0);
             }
@@ -76,11 +77,16 @@ public class CharacterController2D : MonoBehaviour
             }
         }
 
+        // Jump Animation
+        if (Input.GetKeyDown(KeyCode.W))
+        {
+            _animator.SetInteger("AnimationState", 2);
+        }
+
         // Jumping
         if (Input.GetKeyDown(KeyCode.W) && isGrounded)
         {
             r2d.velocity = new Vector2(r2d.velocity.x, jumpHeight);
-            _animator.SetInteger("AnimationState", 2);
         }
     }
 
