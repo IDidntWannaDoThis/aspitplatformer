@@ -135,6 +135,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 4259217923346838765, guid: ee2c5649294816e47aae23175845e017, type: 3}
+      propertyPath: audioManager
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 4259217923346838767, guid: ee2c5649294816e47aae23175845e017, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -9227,7 +9231,7 @@ Tilemap:
       - {fileID: -1561250544, guid: 2c7d217f62f298441b6132e3ba02c5ad, type: 3}
       - {fileID: -237553192, guid: 2c7d217f62f298441b6132e3ba02c5ad, type: 3}
       - {fileID: -1202560494, guid: 2c7d217f62f298441b6132e3ba02c5ad, type: 3}
-      m_AnimationSpeed: 3.0000002
+      m_AnimationSpeed: 3
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 0, y: 5, z: 0}
