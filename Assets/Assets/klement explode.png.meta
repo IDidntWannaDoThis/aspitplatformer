@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -116,7 +116,406 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: klement explode_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 61
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6819cb94413cd847b67e9a5e15a2128
+      internalID: 927423293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 263
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d8204d3932b554f84fbd235d2811b2
+      internalID: 1391559741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 265
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d07c1648501a341b06640b18cfa5a5
+      internalID: -1772401984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 265
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2a3ab6c3980d246ae21760ad27d15b
+      internalID: 17528933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 198
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d336a067cbbee2459e50b4412d72975
+      internalID: 234353735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 194
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d124966af13abbb41b883074b2d7cb69
+      internalID: -1528765384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_6
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 194
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d03c7d7b8f380438ea8cdd3c19048a
+      internalID: -267971142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 197
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5c38ab7614570448a8172ce9eb7b8a
+      internalID: 251718669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf997394a65e0e42a5d647d8ccb7ff2
+      internalID: -1529941134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 129
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db1facd73ca53a4b843fd6b9d2d6e22
+      internalID: 1536153137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 134
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d1bc10ad3f21641941c955bc320da8
+      internalID: -645159008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 130
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908de19a4e9b73145ba360de001d1ba0
+      internalID: -790396216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc1bfaa743063c4c8f55ca0aff3ea52
+      internalID: -983693066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6daafcf94fce0a47adbb18a1f251574
+      internalID: 342254026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6018e2a91644847a2557926d6a4563
+      internalID: 1090513059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_15
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 62
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552037933159ab541894285c63aa133a
+      internalID: 281799721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664f8c03df3bb184191d8a1acbe24d5b
+      internalID: -1151550254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e7ff3199391df45967271cbc52bc5b
+      internalID: 1516405201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klement explode_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6156e626dd714e4b8ac7e6602fbd0cd
+      internalID: 1743248195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -127,7 +526,26 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      klement explode_6: -267971142
+      klement explode_0: 927423293
+      klement explode_5: -1528765384
+      klement explode_10: -645159008
+      klement explode_1: 1391559741
+      klement explode_15: 281799721
+      klement explode_12: -983693066
+      klement explode_16: -1151550254
+      klement explode_2: -1772401984
+      klement explode_11: -790396216
+      klement explode_14: 1090513059
+      klement explode_18: 1743248195
+      klement explode_13: 342254026
+      klement explode_9: 1536153137
+      klement explode_7: 251718669
+      klement explode_17: 1516405201
+      klement explode_8: -1529941134
+      klement explode_3: 17528933
+      klement explode_4: 234353735
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 
