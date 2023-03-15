@@ -137,15 +137,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5945877630245331763, guid: a11eaa71d5eccb94c9035f1f78c0bedc, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -2.5215297
+      value: -0.15819013
       objectReference: {fileID: 0}
     - target: {fileID: 5945877630245331763, guid: a11eaa71d5eccb94c9035f1f78c0bedc, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.58881205
+      value: -0.15003511
       objectReference: {fileID: 0}
     - target: {fileID: 5945877630245331763, guid: a11eaa71d5eccb94c9035f1f78c0bedc, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.6012947
+      value: -1.45
       objectReference: {fileID: 0}
     - target: {fileID: 5945877630245331763, guid: a11eaa71d5eccb94c9035f1f78c0bedc, type: 3}
       propertyPath: m_LocalRotation.w
@@ -187,6 +187,26 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5945877630245331764, guid: a11eaa71d5eccb94c9035f1f78c0bedc, type: 3}
   m_PrefabInstance: {fileID: 1330903502}
   m_PrefabAsset: {fileID: 0}
+--- !u!1818360608 &1853549461
+PositionConstraint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1853549460}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Weight: 1
+  m_TranslationAtRest: {x: -0.15819013, y: -0.15003511, z: -1.45}
+  m_TranslationOffset: {x: 0, y: 0, z: 0}
+  m_AffectTranslationX: 1
+  m_AffectTranslationY: 1
+  m_AffectTranslationZ: 1
+  m_Active: 1
+  m_IsLocked: 1
+  m_Sources:
+  - sourceTransform: {fileID: 1863909329}
+    weight: 1
 --- !u!1001 &1863909328
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -258,6 +278,11 @@ PrefabInstance:
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: ee2c5649294816e47aae23175845e017, type: 3}
+--- !u!4 &1863909329 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4259217924319760263, guid: ee2c5649294816e47aae23175845e017, type: 3}
+  m_PrefabInstance: {fileID: 1863909328}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1839735485 &1245734483063808515
 Tilemap:
   m_ObjectHideFlags: 0
@@ -58305,7 +58330,7 @@ Tilemap:
       - {fileID: -1561250544, guid: 2c7d217f62f298441b6132e3ba02c5ad, type: 3}
       - {fileID: -237553192, guid: 2c7d217f62f298441b6132e3ba02c5ad, type: 3}
       - {fileID: -1202560494, guid: 2c7d217f62f298441b6132e3ba02c5ad, type: 3}
-      m_AnimationSpeed: 3
+      m_AnimationSpeed: 3.0000002
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 44, y: -3, z: 0}
