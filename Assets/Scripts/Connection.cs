@@ -7,7 +7,7 @@ public class Connection : MonoBehaviour
 {
     public static Connection Instance;
 
-    SerialPort data_stream = new SerialPort("COM9", 19200);
+    SerialPort data_stream = new SerialPort("COM3", 19200);
     public string recievedString;
     public GameObject test_data;
 
@@ -34,8 +34,13 @@ public class Connection : MonoBehaviour
         recievedString = data_stream.ReadLine();
 
         string[] datas = recievedString.Split(',');
-
+        Debug.Log(float.Parse(datas[1]));
         ArduinoMovement.Instance.MovePlayer(float.Parse(datas[1]));
+
+        if (int.Parse(datas[2]) == 1)
+        {
+            ArduinoMovement.Instance.Jump();
+        }
     }
 
     private void OnApplicationQuit()

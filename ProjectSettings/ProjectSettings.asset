@@ -765,7 +765,7 @@ PlayerSettings:
   luminVersion:
     m_VersionCode: 1
     m_VersionName: 
-  apiCompatibilityLevel: 6
+  apiCompatibilityLevel: 3
   activeInputHandler: 0
   cloudProjectId: f8eda004-ab36-4670-ba6c-b6594b855717
   framebufferDepthMemorylessMode: 0
