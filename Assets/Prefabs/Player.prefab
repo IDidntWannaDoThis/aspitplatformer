@@ -105,9 +105,10 @@ MonoBehaviour:
   jumpHeight: 6.5
   gravityScale: 1.5
   mainCamera: {fileID: 4259217924319760262}
+  playerSounds:
+  - {fileID: 8300000, guid: 3309a5e5265f7ee48ab86c311dcba3fa, type: 3}
   _animator: {fileID: 4259217923346838754}
-  audio:
-  - {fileID: 0}
+  audioManager: {fileID: 5945877630245331764, guid: a11eaa71d5eccb94c9035f1f78c0bedc, type: 3}
 --- !u!50 &4259217923346838752
 Rigidbody2D:
   serializedVersion: 4

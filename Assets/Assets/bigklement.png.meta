@@ -132,8 +132,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b27875ecb36823b49924d4dd2594d77d
-      internalID: 921023403
+      spriteID: 4f50359ebb863cb45a72c6eeca07b8df
+      internalID: 1910272338
       vertices: []
       indices: 
       edges: []
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ea857eb267545324e822524a6e7e3388
-      internalID: 653932592
+      spriteID: 818670cb7cdc6994790f8fcdcee695cb
+      internalID: -2087915912
       vertices: []
       indices: 
       edges: []
@@ -174,8 +174,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 30b71c9163324654299f619523b5d516
-      internalID: -358021967
+      spriteID: e3d2dcca62c8fc348921dd9e0849d33e
+      internalID: -1339140552
       vertices: []
       indices: 
       edges: []
@@ -195,8 +195,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 581ed6d1111783f469646006bf1e6a97
-      internalID: -536836555
+      spriteID: aa4da6c01b06af142a07bd75dc541e36
+      internalID: 886444956
       vertices: []
       indices: 
       edges: []
@@ -216,8 +216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 267ab4a000a8b2b4281096ecca6d2675
-      internalID: 641231580
+      spriteID: 4e88c96a64fbbb34fa4e29c56d60e3f7
+      internalID: 1369539607
       vertices: []
       indices: 
       edges: []
@@ -237,8 +237,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd393d0608fd8f349b33c48d9630b867
-      internalID: -1309306200
+      spriteID: ca3fdc3d2f6901d41b5b62d3b7c2d894
+      internalID: 1618378848
       vertices: []
       indices: 
       edges: []
@@ -254,12 +254,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      bigklement_2: -358021967
-      bigklement_0: 921023403
-      bigklement_4: 641231580
-      bigklement_3: -536836555
-      bigklement_1: 653932592
-      bigklement_5: -1309306200
+      bigklement_2: -1339140552
+      bigklement_0: 1910272338
+      bigklement_4: 1369539607
+      bigklement_3: 886444956
+      bigklement_1: -2087915912
+      bigklement_5: 1618378848
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

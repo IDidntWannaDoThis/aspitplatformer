@@ -121,19 +121,19 @@ TextureImporter:
       name: klement explode_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 265
-        width: 61
-        height: 55
+        x: 10
+        y: 269
+        width: 43
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6819cb94413cd847b67e9a5e15a2128
-      internalID: 927423293
+      spriteID: bbe9920e40923b247977573d13062007
+      internalID: -431324999
       vertices: []
       indices: 
       edges: []
@@ -142,19 +142,19 @@ TextureImporter:
       name: klement explode_1
       rect:
         serializedVersion: 2
-        x: 68
-        y: 263
-        width: 56
-        height: 57
+        x: 74
+        y: 269
+        width: 43
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 03d8204d3932b554f84fbd235d2811b2
-      internalID: 1391559741
+      spriteID: fcd0adb78bcee944095693a74ab7eb21
+      internalID: -917711481
       vertices: []
       indices: 
       edges: []
@@ -163,19 +163,19 @@ TextureImporter:
       name: klement explode_2
       rect:
         serializedVersion: 2
-        x: 134
-        y: 265
-        width: 52
-        height: 55
+        x: 138
+        y: 269
+        width: 43
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08d07c1648501a341b06640b18cfa5a5
-      internalID: -1772401984
+      spriteID: 3ec6af07967d9c84a89c68132fd21bc9
+      internalID: -179112290
       vertices: []
       indices: 
       edges: []
@@ -184,19 +184,19 @@ TextureImporter:
       name: klement explode_3
       rect:
         serializedVersion: 2
-        x: 198
-        y: 265
-        width: 50
-        height: 55
+        x: 202
+        y: 269
+        width: 43
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a2a3ab6c3980d246ae21760ad27d15b
-      internalID: 17528933
+      spriteID: 86ea4ad40c44c324aab2f8624fc1a6fc
+      internalID: -1768596306
       vertices: []
       indices: 
       edges: []
@@ -205,19 +205,19 @@ TextureImporter:
       name: klement explode_4
       rect:
         serializedVersion: 2
-        x: 1
-        y: 198
-        width: 57
-        height: 60
+        x: 5
+        y: 200
+        width: 48
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0d336a067cbbee2459e50b4412d72975
-      internalID: 234353735
+      spriteID: 8db8a3515b60ecd4bb09a1d216b25f3d
+      internalID: -1999750965
       vertices: []
       indices: 
       edges: []
@@ -226,19 +226,19 @@ TextureImporter:
       name: klement explode_5
       rect:
         serializedVersion: 2
-        x: 64
-        y: 194
-        width: 55
-        height: 63
+        x: 67
+        y: 195
+        width: 50
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d124966af13abbb41b883074b2d7cb69
-      internalID: -1528765384
+      spriteID: 93451b5d2ba051a47a6e5109c27d4a3f
+      internalID: 1543484016
       vertices: []
       indices: 
       edges: []
@@ -247,19 +247,19 @@ TextureImporter:
       name: klement explode_6
       rect:
         serializedVersion: 2
-        x: 125
-        y: 194
-        width: 59
-        height: 63
+        x: 129
+        y: 193
+        width: 52
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 56d03c7d7b8f380438ea8cdd3c19048a
-      internalID: -267971142
+      spriteID: b6de4efea2d396048887deb68432e841
+      internalID: -234176835
       vertices: []
       indices: 
       edges: []
@@ -268,19 +268,19 @@ TextureImporter:
       name: klement explode_7
       rect:
         serializedVersion: 2
-        x: 192
-        y: 197
-        width: 55
-        height: 61
+        x: 197
+        y: 200
+        width: 48
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0a5c38ab7614570448a8172ce9eb7b8a
-      internalID: 251718669
+      spriteID: eee1cba12a692d348a8a24128125ea00
+      internalID: -2026551548
       vertices: []
       indices: 
       edges: []
@@ -289,19 +289,19 @@ TextureImporter:
       name: klement explode_8
       rect:
         serializedVersion: 2
-        x: 1
-        y: 129
-        width: 55
-        height: 66
+        x: 3
+        y: 131
+        width: 50
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bf997394a65e0e42a5d647d8ccb7ff2
-      internalID: -1529941134
+      spriteID: b7b3059b18f22124ca2b9c19d4123265
+      internalID: -2097983665
       vertices: []
       indices: 
       edges: []
@@ -310,19 +310,19 @@ TextureImporter:
       name: klement explode_9
       rect:
         serializedVersion: 2
-        x: 61
+        x: 65
         y: 129
-        width: 59
-        height: 63
+        width: 52
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8db1facd73ca53a4b843fd6b9d2d6e22
-      internalID: 1536153137
+      spriteID: 9db9ee5a438cc3443af50a3fd7b2fcae
+      internalID: 1742334267
       vertices: []
       indices: 
       edges: []
@@ -331,19 +331,19 @@ TextureImporter:
       name: klement explode_10
       rect:
         serializedVersion: 2
-        x: 126
-        y: 134
-        width: 58
-        height: 58
+        x: 133
+        y: 136
+        width: 48
+        height: 55
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41d1bc10ad3f21641941c955bc320da8
-      internalID: -645159008
+      spriteID: e7b9c9ff4529f9b40ac5d2eb55643c11
+      internalID: 99084407
       vertices: []
       indices: 
       edges: []
@@ -352,19 +352,19 @@ TextureImporter:
       name: klement explode_11
       rect:
         serializedVersion: 2
-        x: 192
-        y: 130
-        width: 62
-        height: 64
+        x: 195
+        y: 131
+        width: 50
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 908de19a4e9b73145ba360de001d1ba0
-      internalID: -790396216
+      spriteID: f064449aacd2f4949a59160180286d5e
+      internalID: 872245284
       vertices: []
       indices: 
       edges: []
@@ -373,19 +373,19 @@ TextureImporter:
       name: klement explode_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 66
-        width: 59
-        height: 63
+        x: 1
+        y: 65
+        width: 52
+        height: 62
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3dc1bfaa743063c4c8f55ca0aff3ea52
-      internalID: -983693066
+      spriteID: 18adda27296df38408fe1bac847a87aa
+      internalID: -1041804993
       vertices: []
       indices: 
       edges: []
@@ -394,19 +394,19 @@ TextureImporter:
       name: klement explode_13
       rect:
         serializedVersion: 2
-        x: 64
-        y: 67
-        width: 60
-        height: 63
+        x: 71
+        y: 74
+        width: 46
+        height: 53
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d6daafcf94fce0a47adbb18a1f251574
-      internalID: 342254026
+      spriteID: f630ec67eb34c7a43b971eeb3f9b648e
+      internalID: 955519665
       vertices: []
       indices: 
       edges: []
@@ -415,19 +415,19 @@ TextureImporter:
       name: klement explode_14
       rect:
         serializedVersion: 2
-        x: 128
-        y: 65
-        width: 63
-        height: 65
+        x: 131
+        y: 67
+        width: 61
+        height: 60
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce6018e2a91644847a2557926d6a4563
-      internalID: 1090513059
+      spriteID: 5536a05bfd164d448a9f36fe6cf353e9
+      internalID: 1541716032
       vertices: []
       indices: 
       edges: []
@@ -436,19 +436,19 @@ TextureImporter:
       name: klement explode_15
       rect:
         serializedVersion: 2
-        x: 190
-        y: 62
-        width: 66
-        height: 69
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 552037933159ab541894285c63aa133a
-      internalID: 281799721
+      spriteID: cbc7163214980a649809a06b51a0cddf
+      internalID: -717202955
       vertices: []
       indices: 
       edges: []
@@ -457,19 +457,19 @@ TextureImporter:
       name: klement explode_16
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2
-        width: 66
-        height: 64
+        x: 2
+        y: 1
+        width: 61
+        height: 63
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 664f8c03df3bb184191d8a1acbe24d5b
-      internalID: -1151550254
+      spriteID: 7841eff8117dd6e4ab9bf3b151f660fa
+      internalID: -1003453427
       vertices: []
       indices: 
       edges: []
@@ -478,19 +478,19 @@ TextureImporter:
       name: klement explode_17
       rect:
         serializedVersion: 2
-        x: 65
+        x: 67
         y: 2
-        width: 69
-        height: 64
+        width: 60
+        height: 61
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 25e7ff3199391df45967271cbc52bc5b
-      internalID: 1516405201
+      spriteID: 5af9e2d7eb871444fb775454e4be299d
+      internalID: 1338797234
       vertices: []
       indices: 
       edges: []
@@ -499,19 +499,19 @@ TextureImporter:
       name: klement explode_18
       rect:
         serializedVersion: 2
-        x: 135
-        y: 7
-        width: 66
-        height: 55
+        x: 137
+        y: 15
+        width: 46
+        height: 37
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a6156e626dd714e4b8ac7e6602fbd0cd
-      internalID: 1743248195
+      spriteID: 1a7a1ab4a7ad0884abb470d33b47b0ae
+      internalID: -510166866
       vertices: []
       indices: 
       edges: []
@@ -527,25 +527,25 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      klement explode_6: -267971142
-      klement explode_0: 927423293
-      klement explode_5: -1528765384
-      klement explode_10: -645159008
-      klement explode_1: 1391559741
-      klement explode_15: 281799721
-      klement explode_12: -983693066
-      klement explode_16: -1151550254
-      klement explode_2: -1772401984
-      klement explode_11: -790396216
-      klement explode_14: 1090513059
-      klement explode_18: 1743248195
-      klement explode_13: 342254026
-      klement explode_9: 1536153137
-      klement explode_7: 251718669
-      klement explode_17: 1516405201
-      klement explode_8: -1529941134
-      klement explode_3: 17528933
-      klement explode_4: 234353735
+      klement explode_6: -234176835
+      klement explode_0: -431324999
+      klement explode_5: 1543484016
+      klement explode_10: 99084407
+      klement explode_1: -917711481
+      klement explode_15: -717202955
+      klement explode_12: -1041804993
+      klement explode_16: -1003453427
+      klement explode_2: -179112290
+      klement explode_11: 872245284
+      klement explode_14: 1541716032
+      klement explode_18: -510166866
+      klement explode_13: 955519665
+      klement explode_9: 1742334267
+      klement explode_7: -2026551548
+      klement explode_17: 1338797234
+      klement explode_8: -2097983665
+      klement explode_3: -1768596306
+      klement explode_4: -1999750965
   spritePackingTag: 
   pSDRemoveMatte: 0
   userData: 

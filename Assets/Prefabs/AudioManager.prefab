@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 5945877630245331763}
   - component: {fileID: 5945877630245331762}
   - component: {fileID: 5945877630245331765}
+  - component: {fileID: 6564232579833465059}
   m_Layer: 0
   m_Name: AudioManager
   m_TagString: Untagged
@@ -31,7 +32,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!82 &5945877630245331762
 AudioSource:
@@ -43,7 +44,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 3309a5e5265f7ee48ab86c311dcba3fa, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -141,3 +142,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 044cb0eb47e046149aa76f3116e816d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1818360608 &6564232579833465059
+PositionConstraint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5945877630245331764}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Weight: 1
+  m_TranslationAtRest: {x: -2.5215297, y: -0.58881205, z: 0.6012947}
+  m_TranslationOffset: {x: 0, y: 0, z: 0}
+  m_AffectTranslationX: 1
+  m_AffectTranslationY: 1
+  m_AffectTranslationZ: 1
+  m_Active: 0
+  m_IsLocked: 0
+  m_Sources: []
