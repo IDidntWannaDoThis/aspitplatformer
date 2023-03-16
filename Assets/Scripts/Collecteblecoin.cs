@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Collecteblecoin : MonoBehaviour
 {
+    [HideInInspector] public int pointScoreAmount = 5;
 
     SpriteRenderer spriteRenderer;
 
@@ -28,14 +29,6 @@ public class Collecteblecoin : MonoBehaviour
             
         }
     }
-
-    void CheckAlpha()
-    {
-        if (spriteRenderer.color.a <= 0)
-        {
-            Destroy(gameObject);
-        }
-    }
     
     
     IEnumerator Fade()
@@ -48,6 +41,7 @@ public class Collecteblecoin : MonoBehaviour
             gameObject.transform.position += new Vector3(0,0.01f,0);
             yield return new WaitForSeconds(.05f);
         }
+        PointManager.instance.AddToScore(pointScoreAmount);
         Destroy(gameObject);
     }
 }
